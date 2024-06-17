@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Comandos:jar">
+    <output-path>$USER_HOME$/Spigot_Servidor/plugins</output-path>
+    <root id="archive" name="Comandos.jar">
+      <element id="module-output" name="Particulas" />
+    </root>
+  </artifact>
+</component>
