@@ -1,0 +1,9 @@
+main: me.maikelkruger.plugins.Comandos
+name: Comandos
+version: 1.0
+api-version: 1.20
+author: MaikelKruger
+commands:
+  exibir:
+    description: Mostra partículas
+    usage: Digite /exibir <num particulas> <tipo de particula> para exibir partículas
